@@ -5,7 +5,7 @@ go 1.22.2
 require (
 	github.com/adrg/xdg v0.4.0
 	github.com/henderiw/logger v0.0.0-20230911123436-8655829b1abe
-	github.com/kform-dev/kform v0.0.7-0.20240518052839-365f265cb641
+	github.com/kform-dev/kform v0.0.7
 	github.com/pkg/errors v0.9.1
 	github.com/spf13/cobra v1.8.0
 	github.com/spf13/viper v1.18.2
