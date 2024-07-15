@@ -3,7 +3,7 @@ module github.com/kform-tools/kformpkg
 go 1.22.2
 
 require (
-	github.com/adrg/xdg v0.4.0
+	github.com/adrg/xdg v0.5.0
 	github.com/henderiw/logger v0.0.0-20230911123436-8655829b1abe
 	github.com/kform-dev/kform v0.0.7-0.20240518052839-365f265cb641
 	github.com/pkg/errors v0.9.1
@@ -89,7 +89,7 @@ require (
 	golang.org/x/mod v0.17.0 // indirect
 	golang.org/x/net v0.23.0 // indirect
 	golang.org/x/sync v0.7.0 // indirect
-	golang.org/x/sys v0.18.0 // indirect
+	golang.org/x/sys v0.22.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
 	golang.org/x/tools v0.18.0 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20240227224415-6ceb2ff114de // indirect
