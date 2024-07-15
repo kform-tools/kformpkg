@@ -5,7 +5,7 @@ go 1.22.2
 require (
 	github.com/adrg/xdg v0.4.0
 	github.com/henderiw/logger v0.0.0-20230911123436-8655829b1abe
-	github.com/kform-dev/kform v0.0.7-0.20240518052839-365f265cb641
+	github.com/kform-dev/kform v0.0.10
 	github.com/pkg/errors v0.9.1
 	github.com/spf13/cobra v1.8.0
 	github.com/spf13/viper v1.18.2
@@ -44,7 +44,7 @@ require (
 	github.com/google/gofuzz v1.2.0 // indirect
 	github.com/google/uuid v1.6.0 // indirect
 	github.com/hashicorp/hcl v1.0.0 // indirect
-	github.com/henderiw/apiserver-builder v0.0.2-0.20240222151136-8b4cddd205c5 // indirect
+	github.com/henderiw/apiserver-builder v0.0.2-0.20240414132730-35630f41575d // indirect
 	github.com/henderiw/store v0.0.0-20240513051819-0202d08d7b42 // indirect
 	github.com/inconshreveable/mousetrap v1.1.0 // indirect
 	github.com/jbenet/go-context v0.0.0-20150711004518-d14ea06fba99 // indirect
@@ -80,9 +80,9 @@ require (
 	github.com/subosito/gotenv v1.6.0 // indirect
 	github.com/vbatts/tar-split v0.11.3 // indirect
 	github.com/xanzy/ssh-agent v0.3.3 // indirect
-	go.opentelemetry.io/otel v1.20.0 // indirect
-	go.opentelemetry.io/otel/metric v1.20.0 // indirect
-	go.opentelemetry.io/otel/trace v1.20.0 // indirect
+	go.opentelemetry.io/otel v1.22.0 // indirect
+	go.opentelemetry.io/otel/metric v1.22.0 // indirect
+	go.opentelemetry.io/otel/trace v1.22.0 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
 	golang.org/x/crypto v0.21.0 // indirect
 	golang.org/x/exp v0.0.0-20231127185646-65229373498e // indirect
